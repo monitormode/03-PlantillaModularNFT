@@ -1,4 +1,7 @@
 # 03-PlantillaModularNFT
+
+Despliegue de token ERC721, ERC20, Whitelist para acceso a mint del primero y otro contrato para stakear el NFT:
+
  
 Whitelist deploy address       : 0x1e1D2BFF0f37687452c6Aac9BE7dc33F5952f71F
 
